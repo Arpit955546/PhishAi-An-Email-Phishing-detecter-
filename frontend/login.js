@@ -1,5 +1,5 @@
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://phishai-an-email-phishing-detecter.onrender.com";
 
 const LOGIN_API =
     `${API_BASE_URL}/api/auth/login`;
